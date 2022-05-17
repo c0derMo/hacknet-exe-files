@@ -1,13 +1,14 @@
 # Hacknet EXE Files
-## Credits
-@famous1622 - Discovery of this "feature"
-
-@CurryMaker - Creating of this list
 
 ## How to use these codes
 1. Create a note with the content 'a' using the 'notes' command
 2. Replace the 'a' in the Notes.txt file in your home-directory with one of the codes below
 3. Move / rename the file to ../bin/someExeFile.exe
+
+## Contributors
+- Discord user **"famous1622"** - Discovery of this "feature"
+- **[@c0derMo](https://github.com/c0derMo)** - Initial creation of this list
+- **[@TheOneGuy](https://github.com/TheOneGuy)** - Addition of "OpShell"
 
 ## Programs
 #### SSHCrack
